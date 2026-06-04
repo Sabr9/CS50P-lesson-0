@@ -1,3 +1,13 @@
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,7 @@
+This is my first time code on  python with CS50p, harvard university
+Side effects is displayed in terminal 
+call py in terminal then the file name to provide side effect(run/output) I.E "py hello.py".
+hello.py is my file name.
+- I used offline VS code
+- I follow Prof David Melan, promptly with his step by steps examples, which would be found on the VS code
+- For grounded understanding, I imagine examples then code it down which gave me side effect i expected. I used "analogy comments to identify my examples"
+
 # CS50P - Lesson 0: Functions and Variables
 
 This is my repository for tracking my Python learning journey with Harvard University's CS50p course, taught by Professor David Malan.
