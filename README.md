@@ -33,4 +33,24 @@ This is my repository for tracking my Python learning journey with Harvard Unive
 ## My Personal Code Analogies:
 - For a grounded understanding, I, Imagined real-world examples and code them down. In the lessons `hello.py` and `L0D1`, I built custom prompts to print out a user's name, age, and weight asked previously. `(L0D1 means Lesson0 Day1)`
 
-- I asked AI for complex tasks to give me, in order to solve them.
+`I asked AI for complex tasks to give me, in order to solve them.`
+
+*****************************************************************************************
+
+## L0D2
+- One of the types of data in python is called `string(str)`, in python string is a sequence of program.
+- It appears that `print funtion` automatically made the information appeared on the next line.
+- In the documentation like `print(* objects, sep='', end='\n', file=sys.stdout, flush=False){this is the official documentation for print function}` evenything inside the parenthesis are potencial argument to the function.
+- When we are looking at arguments in the documentation there's is a term it is being used, called `parameters` to a function.when we are talking about what we can ask to a functions and what those input are called those are parameters
+- when the function is used and parse in values inside those parentheses those input/values are `argument`.
+## we are looking at what the function can take versus what you are actually pasing to the function.
+
+
+## Note 
+- One of the easiest way to learn programing language is to learn how to read the documentation.All of the answers to your questions might be there even if it is not obvious at first.
+
+## Explanation of `print(* objects, sep='', end='\n', file=sys.stdout, flush=False)
+- `* objects:` can take any form, number and type of object, i.e. zero string, one string, two strings, technically infinity strings.
+- `sep=''` parameter: the short form of separation, by default uses it to override(block or remove) space
+-  `end='\n'`: the backslach and N means new-line, by default this print function will end every line of code by using `/n`.
+
